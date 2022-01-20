@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/jairaragao/"><i>Jair Aragão</i></a> 😃️</h1>
-  <p align="center">Estudo Analise e Desenvolvimento de Sistemas na FATEC<p align="center"></h2>
+
+  <h2><p align="center">Estudo análise e desenvolvimento de sistemas<p align="center"></h2>
 </div>
 
 <div align="center">
@@ -10,15 +11,15 @@
   </a>
 </div>
 
-<div>
-    <p align="center">Tecnologias que uso no dia a dia<p align="center"></h2>
-</div>
-
 <div align="center" valign="top"><br>
-    <img align="center" alt="Vue.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
+    <img align="center" alt="Vue.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
+    <img align="center" alt="Node.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
 
