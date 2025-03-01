@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/jairaragao/"><i>Jair Aragão</i></a> 😃️</h1>
 
-  <h2><p align="center">Sou desenvolvedor Web<p align="center"></h2>
+  <h2><p align="center">Desenvolvedor full-stack<p align="center"></h2>
 </div>
 
 <div align="center">
